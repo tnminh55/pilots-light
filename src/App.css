@@ -1,0 +1,17 @@
+*{
+margin: 0%;
+padding: 0;
+box-sizing: border-box;
+font-family: 'Alfa Slab One', cursive;
+}
+
+.navbar{
+   background: url('./images/oil-lamp.jpg');
+   background-position: center;
+   background-size: cover;
+   height:100vh;
+   width: 100%;
+   position: relative;
+}
+
+
