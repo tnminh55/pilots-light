@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/tnminh55/witness/static/css/main.5d0b667f.chunk.css",
+    "main.js": "/tnminh55/witness/static/js/main.b40ddee0.chunk.js",
+    "main.js.map": "/tnminh55/witness/static/js/main.b40ddee0.chunk.js.map",
+    "runtime-main.js": "/tnminh55/witness/static/js/runtime-main.3c95cbd1.js",
+    "runtime-main.js.map": "/tnminh55/witness/static/js/runtime-main.3c95cbd1.js.map",
+    "static/js/2.db60c062.chunk.js": "/tnminh55/witness/static/js/2.db60c062.chunk.js",
+    "static/js/2.db60c062.chunk.js.map": "/tnminh55/witness/static/js/2.db60c062.chunk.js.map",
+    "index.html": "/tnminh55/witness/index.html",
+    "static/css/main.5d0b667f.chunk.css.map": "/tnminh55/witness/static/css/main.5d0b667f.chunk.css.map",
+    "static/js/2.db60c062.chunk.js.LICENSE.txt": "/tnminh55/witness/static/js/2.db60c062.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/tnminh55/witness/static/media/oil-lamp.bbb6ce5c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c95cbd1.js",
+    "static/js/2.db60c062.chunk.js",
+    "static/css/main.5d0b667f.chunk.css",
+    "static/js/main.b40ddee0.chunk.js"
+  ]
+}
